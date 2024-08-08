@@ -1,7 +1,6 @@
 # Analyze Ecommerce sales data created an interactive Dashboard using Power Bi.
 
-# Powerbi_Dashboard_project
- Project - key points
+# Project - key points
  * Data collection
  * Data cleaning & wrangling
  * Data modeling
