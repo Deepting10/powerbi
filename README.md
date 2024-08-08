@@ -3,5 +3,6 @@
  * Data collection
  * Data cleaning & wrangling
  * Data modeling
+ * Data visualization 
  * Dashboard design
    
